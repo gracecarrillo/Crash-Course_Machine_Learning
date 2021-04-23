@@ -14,7 +14,7 @@ Machine learning is a method of data analysis that automates analytical model bu
 </p>
 
 <p align="justify">
-In this crash course, we introduce the core idea of teaching a computer to learn concepts using data—without being explicitly programmed. We also do a worked example of the Machine Learning Workflow, and one case study of machine learning: Predicting Customer Churn. 
+In this crash course, we introduce the core idea of teaching a computer to learn concepts using data—without being explicitly programmed. We also do a worked example of the Machine Learning Workflow, and two case study of machine learning: Recommender Based Systems and Classification Systems. 
 </p>
 
 ## PREPARATION BEFORE THE SEMINAR
