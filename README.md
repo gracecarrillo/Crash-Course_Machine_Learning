@@ -77,7 +77,7 @@ Click *Install*. When a pop-up window asks you if you want to open Visual Studio
 
 ### Open the materials. 
 
-You should now be ready to get started! Verify this by navigating to the `Python_Crash_Course` folder you downloaded. Go to *File -> Open File ...*
+You should now be ready to get started! Verify this by navigating to the `Python_Crash_Course` folder you downloaded. Go to *File -> Open Folder ...*
 
 Select the folder and click  *Open*. You should now be able to see all the folders for this course.
 
@@ -104,5 +104,4 @@ Happy learning!
 [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 [Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial ](https://www.youtube.com/watch?v=GwIo3gDZCVQ)
-
 ---
