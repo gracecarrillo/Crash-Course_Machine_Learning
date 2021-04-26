@@ -101,6 +101,8 @@ Happy learning!
 
 [Python Beginner Tutorial. Full playlist: 26 videos](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
 
+[Introduction to Computer Science and Programming in Python. From MIT.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+
 [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 [Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial ](https://www.youtube.com/watch?v=GwIo3gDZCVQ)
